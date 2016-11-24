@@ -1,0 +1,17 @@
+button{margin-top: 2%;}
+.borde{
+	border: 2px solid ;
+	margin: 2%;
+	padding: 1%;
+	border-radius: 5px;
+}
+.linea{
+	border-right: 2px solid;
+	height: 150px;
+}
+img{
+	display: block;
+    margin: auto;
+    width: 40%;
+}
+
